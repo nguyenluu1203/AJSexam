@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-left-item',
   templateUrl: './left-select.component.html',
 })
-export class LeftItemComponent {
+export class LeftSelectComponent {
   displayRightItem() {
 
   }
